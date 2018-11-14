@@ -19,12 +19,6 @@ The purpose of this project is identify relevant seasons of different agricultur
 * Pandas, Numpy
 * Jupyter
 
-
-## Project Description
-
-
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
-
 ## Needs of this project
 
 - Domain knowledge
@@ -52,8 +46,24 @@ The purpose of this project is identify relevant seasons of different agricultur
 
 |Name     |  Slack Handle   | 
 |---------|-----------------|
-|[Vipul Rustagu](https://github.com/vipul115)| [LinkedIn](https://www.linkedin.com/in/vipul-rustagi-331290150/)  | 
+|[Vipul Rustagi](https://github.com/vipul115)| [LinkedIn](https://www.linkedin.com/in/vipul-rustagi-331290150/)  | 
 
+## Screenshots
+
+##### Outliers within a commodity
+!['1'](Screenshots/Outlierakole.JPG)
+
+##### Overall outliers
+!['1'](Screenshots/Overall.JPG)
+
+##### Price comparisons
+!['1'](Screenshots/compare.JPG)
+
+##### Seasonalities
+!['1'](Screenshots/Seasonality.JPG)
+
+##### Commodities with high price fluctuations
+!['1'](Screenshots/Flagset.JPG)
 
 ## Contact
   
