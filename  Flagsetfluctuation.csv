@@ -1,53 +1,35 @@
 APMC,Commodity,Month,Year,max_price
-Barshi,flower,May,2016,521
-Barshi,flower,June,2016,659
-Barshi,tomato,September,2016,627
-Barshi,cucumber,June,2016,555
-Barshi,cucumber,July,2016,576
-Barshi,capsicum,August,2015,1392
-Barshi,capsicum,November,2016,1300
-Barshi,bitter gourd,May,2016,1126
-Barshi,bitter gourd,June,2016,1300
-Barshi,bitter gourd,August,2016,1440
+Barshi,brinjal,October,2016,4163
+Barshi,tomato,July,2016,2445
+Barshi,cabbage,July,2016,1486
+Barshi,green chilli,July,2016,5190
+Barshi,flower,July,2016,1641
+Barshi,flower,October,2016,1447
+Barshi,lemon,September,2016,4647
+Barshi,cluster bean,October,2016,4821
+Barshi,cucumber,October,2016,1590
+Barshi,ladies finger,July,2016,2105
+Barshi,ladies finger,October,2016,2106
+Barshi,capsicum,July,2016,3569
+Barshi,bitter gourd,July,2016,3156
+Barshi,bitter gourd,November,2016,2444
 Pune,squash gourd,June,2016,6300
-Barshi,green chilli,June,2016,1486
-Barshi,green chilli,September,2016,1158
-Barshi,green chilli,October,2016,1031
+Vadgaon Peth,tomato,June,2016,6706
 Mumbai,squash gourd,April,2016,3550
 Mumbai,squash gourd,May,2016,3952
-Mumbai,squash gourd,July,2016,3283
-Barshi,cabbage,May,2016,333
-Kamthi,spinach,October,2014,3232
-Kamthi,spinach,July,2015,3080
-Kamthi,spinach,July,2016,3268
-Kamthi,spinach,August,2016,3574
-Kalmeshwar,coriander  ,September,2015,6238
-Kalmeshwar,coriander  ,October,2015,5331
-Kalmeshwar,coriander  ,June,2016,6423
-Kalmeshwar,coriander  ,July,2016,6122
-Kalmeshwar,coriander  ,October,2016,5438
-Aurangabad,papai,July,2015,2000
-Aurangabad,papai,June,2016,3047
-Aurangabad,papai,August,2016,2233
-Anajngaon Surji,chillies(red),December,2015,40500
-Kurdwadi,gram,August,2015,14802
-Rahata,bottle gourd,April,2016,2180
-Rahata,bottle gourd,May,2016,2114
-Rahata,bottle gourd,June,2016,2681
-Rahata,bottle gourd,July,2016,2108
-Vai,tomato,September,2014,2590
-Vai,tomato,January,2015,3385
-Vai,tomato,November,2015,3146
-Vai,tomato,December,2015,2828
-Kamthi,tomato,July,2015,3780
-Kamthi,tomato,November,2015,3250
-Kamthi,tomato,June,2016,3560
-Karad,apple,May,2016,24000
-Karad,apple,June,2016,24154
-Karad,apple,July,2016,26762
-Karad,apple,August,2016,26385
-Karad,apple,September,2016,21717
-Ratanagari,green-peas,April,2015,9000
-Ratanagari,green-peas,May,2015,8500
-Ratanagari,green-peas,May,2016,9800
-Ratanagari,green-peas,June,2016,10000
+Mumbai,squash gourd,June,2016,4727
+Aurangabad,tomato,June,2016,5528
+Aurangabad,tomato,July,2016,3321
+Kalvan,onion,August,2015,5111
+Kalvan,onion,September,2015,5050
+Kalvan,onion,October,2015,3786
+Yeola,onion,August,2015,4840
+Yeola,onion,September,2015,4716
+Yeola,onion,October,2015,3602
+Shahada,maize,April,2015,6713
+Pune-Pimpri,onion,August,2015,4574
+Pune-Pimpri,onion,September,2015,4593
+Pune-Pimpri,onion,November,2015,3875
+Solapur,papai,April,2015,1367
+Solapur,papai,June,2015,1425
+Solapur,papai,June,2016,1890
