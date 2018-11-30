@@ -72,10 +72,10 @@ The purpose of this project is identify relevant seasons of different agricultur
 ##### Price comparisons
 !['1'](Screenshots/compare.JPG)
 
-##### Seasonalities
+##### Seasonality of each cluster of region and commodity pairs
 !['1'](Screenshots/Seasonality.JPG)
 
-##### Commodities with high price fluctuations
+##### Pairs with high price fluctuations
 !['1'](Screenshots/Flagset.JPG)
 
 ## Contact
