@@ -81,4 +81,4 @@ The purpose of this project is identify relevant seasons of different agricultur
 ## Contact
   
 * vipulrustagi11@gmail.com
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+* Feel free to contact me for any questions or if you are interested in contributing!
