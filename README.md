@@ -24,7 +24,7 @@ The purpose of this project is identify relevant seasons of different agricultur
 
 
 
-### Methods Used
+### Skills portrayed through this project
 * Inferential Statistics
 * Outlier Detection through Inter-quartile ranges
 * Statistical Decomposition of Time-series data
