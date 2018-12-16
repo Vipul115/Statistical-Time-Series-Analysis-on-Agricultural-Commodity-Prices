@@ -25,7 +25,7 @@ The purpose of this project is identify relevant seasons of different agricultur
 
 
 ### Skills portrayed through this project
-* Data Crunching skills
+* Data Crunching 
 * Inferential Applied Statistics
 * Outlier Detection through Inter-quartile ranges
 * Statistical Decomposition of Time-series data
