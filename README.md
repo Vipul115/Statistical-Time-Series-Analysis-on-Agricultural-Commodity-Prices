@@ -25,17 +25,19 @@ The purpose of this project is identify relevant seasons of different agricultur
 
 
 ### Skills portrayed through this project
-* Inferential Statistics
+* Data Crunching skills
+* Inferential Applied Statistics
 * Outlier Detection through Inter-quartile ranges
 * Statistical Decomposition of Time-series data
 * Data Visualization
 
-### Technologies
+### Technologies and Libraries Used
+* Statsmodels
 * Python
 * Matplotlib, Seaborn
 * Pandas, Numpy
 * Jupyter
-* Statsmodels
+
 
 
 ## Getting Started
