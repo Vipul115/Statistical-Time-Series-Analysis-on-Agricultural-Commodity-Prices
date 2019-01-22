@@ -11,33 +11,33 @@ The purpose of this project is identify relevant seasons of different agricultur
 
 > **1.	Testing and filtering outliers from the data.**
 
-> **2. 	Understand price fluctuations accounting the seasonal effect**
+> **2. 	Understanding price fluctuations accounting the seasonal effect**
 
-> * **1.	Detect seasonality type (multiplicative or additive) for each cluster of APMC and commodities**
+> * **1.	Detecting seasonality type (multiplicative or additive) for each cluster of APMC and commodities**
 
-> * **2.	De-seasonalise prices for each commodity and APMC according to the detected seasonality type**
+> * **2.	De-seasonalising prices for each commodity and APMC according to the detected seasonality type**
 
-> **3.	Compare prices in APMC/Mandi with MSP(Minimum Support Price)- raw and deseasonalised**
+> **3.	Comparing prices in APMC with MSP(Minimum Support Price)- raw and deseasonalised**
 
-> **4.	Flag set of APMC/mandis and commodities with highest price fluctuation across different commodities in each relevant season, and year.**
+> **4.	Flagging set of APMC and commodities with highest price fluctuation across different commodities in each relevant season, and year.**
 
 
 
 
 ### Skills portrayed through this project
+
+* Time-series Analysis
 * Data Crunching 
 * Inferential Applied Statistics
 * Outlier Detection through Inter-quartile ranges
 * Statistical Decomposition of Time-series data
 * Data Visualization
 
-### Technologies and Libraries Used
+### Technologies/Libraries Used
 * Statsmodels
 * Python
 * Matplotlib, Seaborn
 * Pandas, Numpy
-* Jupyter
-
 
 
 ## Getting Started
@@ -47,7 +47,7 @@ The purpose of this project is identify relevant seasons of different agricultur
 3. Data processing/transformation scripts are :  
 * Task-1 Outlier Detection
 * Task-2 (pre-processing)
-4. Analysis is carried out in:
+4. Analysis is carried out in files names:
 * Task 2 Accounting Seasonality
 * Task 3 Comparing prices
 * Task 4 Flagset highest price Fluctuation 
@@ -77,6 +77,9 @@ The purpose of this project is identify relevant seasons of different agricultur
 
 ##### Seasonality of each cluster of region and commodity pairs
 !['1'](Screenshots/Seasonality.JPG)
+
+##### Deseasonalised prices of Area:commodity after seasonal decomposition
+!['1'](Screenshots/deseasonal.JPG)
 
 ##### Pairs with high price fluctuations
 !['1'](Screenshots/Flagset.JPG)
