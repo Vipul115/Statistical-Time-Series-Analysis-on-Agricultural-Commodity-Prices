@@ -1,5 +1,6 @@
 # Time Series Analysis on agricultural commodity prices
 This project aims to analyze trends and seasonality in datasets consisting of commodity prices for different APMCs of Maharashtra.
+Don't forget to star this repository if it helped you in any way. Thanks!
 
 #### Project Status: [Completed]
 
